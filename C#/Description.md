@@ -2,8 +2,8 @@ This repository covers week one to five of the [course](https://learning.edx.org
 which taught fundemental concepts of computer science using the programming language C. 
 
 Topics: 
-Week 1: C
-Week 2: Arrays
+1. Week 1: C
+2. Week 2: Arrays
 Week 3: Algorithiums 
 Week 4: Memory
 Week 5: Data Structure
